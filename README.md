@@ -3,7 +3,21 @@
 
 ### Update 19th January 2024
 
-This is a [test link](https://github.com/sean-stayte/formula-one-attrition/blob/main/F1_Attrition_Dashboard.pbix)
+I have now completed this project.
+
+You can see the final report [here](https://github.com/sean-stayte/formula-one-attrition/blob/main/F1_Attrition_Report.pdf)
+
+I made some neat infographics summarising the main findings of the project:
+ - [Highest Attrition Rates in the current Hybrid Era](https://github.com/sean-stayte/formula-one-attrition/blob/main/Infographic_Top10_HybridEra.png)
+ - [Highest Attrition Rates of All Time](https://github.com/sean-stayte/formula-one-attrition/blob/main/Infographic_Top10_All_Time.png)
+ - [Attrition Rate for All Races](https://github.com/sean-stayte/formula-one-attrition/blob/main/Infographic_AllRaces_All_Time.png)
+
+[Here](https://github.com/sean-stayte/formula-one-attrition/blob/main/F1_Attrition_Query.sql) is the SQL query I wrote.
+
+If you would like to view the PowerBI file I used, you can do that [here](https://github.com/sean-stayte/formula-one-attrition/blob/main/F1_Attrition_Dashboard.pbix)
+
+Thanks for reading. This is my first attempt at a data analysis project, so I would love get positive feedback and/or constructive criticism.
+
 
 ### 5th January 2024
 **Question:** Which Formula 1 races had the highest rate of attrition? (And were obviously therefore the most interesting to watch)
