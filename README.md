@@ -16,7 +16,7 @@ I made some neat infographics summarising the main findings of the project:
 
 If you would like to view the PowerBI file I used, you can do that [here](https://github.com/sean-stayte/formula-one-attrition/blob/main/F1_Attrition_Dashboard.pbix)
 
-Thanks for reading. This is my first attempt at a data analysis project, so I would love get positive feedback and/or constructive criticism.
+Thanks for reading. This is my first attempt at a data analysis project, so I would love to get positive feedback and/or constructive criticism.
 
 
 ### 5th January 2024
